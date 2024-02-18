@@ -1,0 +1,59 @@
+Patients records from longitudinal MRI data from the Open Access Series of
+Imaging Studies focusing on dementia/Alzheimer's disease [1].
+
+The datasets includes records of up to 4 annual visits for 150 participants.
+At each visit T1-weighted MRI scans of the brain have been obtained and the
+status (disease diagnosis) of each patient have been evaluated (it can change
+between the visits).
+
+Research questions:
+- is it possible to distinguish healthy patients records from cases of dementia? (YES)
+- what are the characteristics of patients with different dementia rating?
+- which patients get worse over time? how fast? by how much?
+- can we predict the conversion to demented status after the first visit?
+- which attributes are the most predictive and which are useless?
+- does change observed after 1 year predict demented status in year 2 or later?
+
+Attribute description:
+- patient ID
+- MRI exam ID
+- visit
+- age
+- sex: M/F
+- hand: R/L
+- delay: MR delay time (contrast)
+- YOE: years of education
+- SES: socioeconomic status (5 categories)
+- MMSE: Mini Mental State Examination (0-30 points)
+- CDR: Clinical Dementia Rating (none, very mild, mild, moderate, severe)
+- eTIV: estimated Total Intracranial Volume
+- nWBV: normalised Whole Brain Volume
+- ASF: Atlas Scaling Factor
+
+
+[1]: "Longitudinal MRI Data in Nondemented and Demented Older Adults",
+     Marcus et al., Journal of Cognitive Neuroscience, 22, 2677-2684, 2010.
+     DOI: 10.1162/jocn.2009.21407
+
+*) The original dataset has been altered for educational purposes
+
+
+
+
+- Progression instead of a piechart to show competency
+- Show all 18 AHEP 4 outcomes instead of groupings
+- SDGs are actually UNSECO competencies
+- 17 SDGs need to be there and inputted directly (works as pie chart)
+- Need to meet every ahep 4 outcome
+	- Need to meet every ahep 4 outcome 3 times
+- Add icons in the create events page
+- Make create events page a full page
+
+
+Report
+- 1st page summary of ahep 4 outcomes they've met and unesco competencies and SDG pie charts
+- More customisation on what report
+- really likes date range for report
+- Favourite button for events so events can be included in the report
+
+
